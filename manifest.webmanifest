@@ -1,0 +1,14 @@
+{
+  "name": "MoodPredict",
+  "short_name": "MoodPredict",
+  "description": "Registra tu estado de ánimo y descubre tus patrones con análisis semanal.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0EDE6",
+  "theme_color": "#4A7C6E",
+  "icons": [
+    { "src": "app-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
